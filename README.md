@@ -23,10 +23,10 @@ This project explores **Netflix's Movies and TV Shows dataset** to uncover insig
 - Netflix has **more Movies than TV Shows**, indicating a stronger focus on movies.
 
 ### 2️⃣ Top 10 Directors with Most Content
-- Certain directors, such as **[Director Name]**, dominate Netflix's content catalog.
+- Certain directors, such as **[Rajiv Chilaka]**, dominate Netflix's content catalog.
 
 ### 3️⃣ Content Growth Over the Years
-- Netflix has **expanded significantly after [Year]**, producing more content in recent years.
+- Netflix has **expanded significantly after [2000]**, producing more content in recent years.
 
 ## 📎 Code & Implementation
 You can find the full **Jupyter Notebook** with code and visualizations in this repository.
