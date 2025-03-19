@@ -38,5 +38,5 @@ You can find the full **Jupyter Notebook** with code and visualizations in this 
 
 ## 🔗 Connect with Me
 - **LinkedIn**: [linkedin.com/in/lakshay-bhandari-b1b38a307](https://www.linkedin.com/in/lakshay-bhandari-b1b38a307/)
-- **GitHub**: [Your GitHub Profile Link](https://github.com/isthatlak)
+- **GitHub**: [https://github.com/isthatlak](https://github.com/isthatlak)
 
