@@ -37,6 +37,6 @@ You can find the full **Jupyter Notebook** with code and visualizations in this 
 - Explore **recommendation algorithms** based on content features.
 
 ## 🔗 Connect with Me
-- **LinkedIn**: [linkedin.com/in/lakshay-bhandari-b1b38a307](https://www.linkedin.com/in/lakshay-bhandari-b1b38a307/)
-- **GitHub**: [https://github.com/isthatlak](https://github.com/isthatlak)
+- **LinkedIn**: [Lakshay Bhandari](https://www.linkedin.com/in/lakshay-bhandari-b1b38a307/)
+- **GitHub**: [isthatlak](https://github.com/isthatlak)
 
