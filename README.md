@@ -6,7 +6,7 @@ This project explores **Netflix's Movies and TV Shows dataset** to uncover insig
 ## 🔍 Objectives
 - Perform **Exploratory Data Analysis (EDA)** on the Netflix dataset.
 - Clean and preprocess data (handling missing values, formatting inconsistencies).
-- Visualize trends in **content types, top directors, and release years**.
+- Visualize trends in **content types, top countries, and release years**.
 - Derive meaningful insights about Netflix's content strategy.
 
 ## 📂 Dataset Used
@@ -22,8 +22,8 @@ This project explores **Netflix's Movies and TV Shows dataset** to uncover insig
 ### 1️⃣ Movies vs. TV Shows Count
 - Netflix has **more Movies than TV Shows**, indicating a stronger focus on movies.
 
-### 2️⃣ Top 10 Directors with Most Content
-- Certain directors, such as **[Rajiv Chilaka]**, dominate Netflix's content catalog.
+### 2️⃣ Top 10 Countries with Most Content
+- Certain countries, such as **[United States]**, dominate Netflix's content catalog.
 
 ### 3️⃣ Content Growth Over the Years
 - Netflix has **expanded significantly after [2000]**, producing more content in recent years.
