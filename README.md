@@ -21,22 +21,19 @@ This project explores **Netflix's Movies and TV Shows dataset** to uncover insig
 ## 📊 Key Findings
 ### 1️⃣ Movies vs. TV Shows Count
 - Netflix has **more Movies than TV Shows**, indicating a stronger focus on movies.
+![Data Screenshot 1](ndascreenshot1.png)
 
 ### 2️⃣ Top 10 Countries with Most Content
-- Certain countries, such as **[United States]**, dominate Netflix's content catalog.
+- Certain countries, such as **United States**, dominate Netflix's content catalog.
+![Data Screenshot 2](ndascreenshot2.png)
 
 ### 3️⃣ Content Growth Over the Years
-- Netflix has **expanded significantly after [2000]**, producing more content in recent years.
+- Netflix has **expanded significantly after 2000**, producing more content in recent years.
+![Data Screenshot 3](ndascreenshot3.png)
 
 ## 📎 Code & Implementation
 You can find the full **Jupyter Notebook** with code and visualizations in this repository.
 
-## 📌 Next Steps
-- Extend the analysis to include **genre-based trends**.
-- Perform **Sentiment Analysis** on Netflix descriptions.
-- Explore **recommendation algorithms** based on content features.
-
 ## 🔗 Connect with Me
 - **LinkedIn**: [Lakshay Bhandari](https://www.linkedin.com/in/lakshay-bhandari-b1b38a307/)
 - **GitHub**: [isthatlak](https://github.com/isthatlak)
-
