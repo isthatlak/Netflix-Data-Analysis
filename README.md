@@ -32,70 +32,70 @@ This project delves into **Netflix’s Movies and TV Shows dataset** using **Exp
 ### 1️⃣ Movies vs. TV Shows Over Time
 Shows the evolution of Netflix’s **content mix**, highlighting how the platform consistently leans more toward **movies** than TV shows.
 
-![Movies vs. TV Shows Over Time](screenshots\ndascreenshot1.png)
+![Movies vs. TV Shows Over Time](screenshots/ndascreenshot1.png)
 
 ---
 
 ### 2️⃣ Number of Releases Per Year
 Visualizes **annual content output**, indicating Netflix’s explosive growth post-2015 in terms of original and licensed releases.
 
-![Number of Releases Per Year](screenshots\ndascreenshot2.png)
+![Number of Releases Per Year](screenshots/ndascreenshot2.png)
 
 ---
 
 ### 3️⃣ Monthly/Yearly Trends by Date Added
 Reveals **seasonal trends** and periodic spikes in content addition, helping understand **platform rollout strategies**.
 
-![Monthly/Yearly Trends by Date Added](screenshots\ndascreenshot3.png)
+![Monthly/Yearly Trends by Date Added](screenshots/ndascreenshot3.png)
 
 ---
 
 ### 4️⃣ Top 10 Countries with Most Content
 Maps out Netflix’s **geographic content density**, showing that the **United States** dominates the catalog, followed by India, UK, and Canada.
 
-![Top 10 Countries with Most Content](screenshots\ndascreenshot4.png)
+![Top 10 Countries with Most Content](screenshots/ndascreenshot4.png)
 
 ---
 
 ### 5️⃣ Heatmap of Country vs. Content Type
 A **region-content breakdown**, highlighting which countries prefer **Movies vs. TV Shows**—for instance, India has a strong preference for movies.
 
-![Heatmap of Country vs. Content Type](screenshots\ndascreenshot5.png)
+![Heatmap of Country vs. Content Type](screenshots/ndascreenshot5.png)
 
 ---
 
 ### 6️⃣ Content Availability by Genre and Country
 Dives deeper into the **genre mix within each country**, identifying genre preferences by region (e.g., Animation in Japan, Documentaries in UK).
 
-![Content Availability by Genre and Country](screenshots\ndascreenshot6.png)
+![Content Availability by Genre and Country](screenshots/ndascreenshot6.png)
 
 ---
 
 ### 7️⃣ Genre Analysis
 Provides a **global genre frequency chart**, revealing the most dominant genres on Netflix. **Dramas, Comedies, and Documentaries** are the top 3.
 
-![Genre Analysis](screenshots\ndascreenshot7.png)
+![Genre Analysis](screenshots/ndascreenshot7.png)
 
 ---
 
 ### 8️⃣ Advanced Genre-Content Time Analysis
 Tracks how genre popularity **shifts over time**, e.g., a rise in Stand-Up Comedy and Action content after 2015.
 
-![Advanced Genre-Content Time Analysis](screenshots\ndascreenshot8.png)
+![Advanced Genre-Content Time Analysis](screenshots/ndascreenshot8.png)
 
 ---
 
 ### 9️⃣ Top Genres by Average Rating
 Surfaces **genre quality** by comparing **average viewer ratings**—Documentaries and Historical content often score higher than average.
 
-![Top Genres by Average Rating](screenshots\ndascreenshot9.png)
+![Top Genres by Average Rating](screenshots/ndascreenshot9.png)
 
 ---
 
 ### 🔟 Correlation of Content Attributes
 A **heatmap of correlations** between numeric features like **release year, duration, and rating**,offering final data science-style insight.
 
-![Correlation of Content Attributes](screenshots\ndascreenshot10.png)
+![Correlation of Content Attributes](screenshots/ndascreenshot10.png)
 
 ---
 
