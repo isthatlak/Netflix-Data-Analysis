@@ -84,7 +84,7 @@ Surfaces **genre quality** by comparing **average viewer ratings**—Documentari
 ---
 
 ### 🔟 Correlation of Content Attributes
-A **heatmap of correlations** between numeric features like **release year, duration, and rating**, offering final data science-style insight.
+A **heatmap of correlations** between numeric features like **release year, duration, and rating**,offering final data science-style insight.
 ![Correlation of Content Attributes](ndascreenshot10.png)
 
 ---
